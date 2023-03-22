@@ -1,4 +1,4 @@
-import {CountNumbersCharsString} from '../programs/Ejercicio_001';
+import {CountNumbersCharsString} from '../programs/CountNumbersCharsString';
 
 describe('Count Numbers Characters in String', () => {
     test('test empty string', () => {
