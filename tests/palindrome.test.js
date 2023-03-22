@@ -1,6 +1,6 @@
 import {DeterminePalindrome} from '../programs/functions';
 
-console.log(DeterminePalindrome('marlon'))
+// console.log(DeterminePalindrome('marlon'))
 
 describe('Palindrome', () => {
     test('Test for determine if a marlon is palindrome', () => {

@@ -6,4 +6,4 @@ export const TrimCharactersOfString = (str, quantity) => {
     return str.substr(str, quantity);
 };
 
-console.log(TrimCharactersOfString('Hola', 5));
+// console.log(TrimCharactersOfString('Hola', 5));
