@@ -17,4 +17,7 @@ Programa una función que dada una String te devuelva un Array de textos separad
 Por ejemplo: miFuncion('hola que tal', ' ') devolverá ['hola', 'que', 'tal'].
 
 
-4) Programa una función que repita un texto X veces, pe. miFuncion('Hola Mundo', 3) devolverá Hola Mundo Hola Mundo Hola Mundo.
+## [Ejercicio_004: Repetir texto n veces](https://github.com/clasesucatmarlon/JS_JonMircha/blob/main/programs/RepeatTextNTimes.js)
+### [Test](https://github.com/clasesucatmarlon/JS_JonMircha/blob/main/tests/RepeatTextNTimes.test.js)
+Programa una función que repita un texto X veces.  
+Por ejemplo; miFuncion('Hola Mundo', 3) devolverá Hola Mundo Hola Mundo Hola Mundo.
