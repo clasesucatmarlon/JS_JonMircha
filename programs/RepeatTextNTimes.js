@@ -18,4 +18,4 @@ export const RepeatTextNTimes = (text, times) => {
     return text.repeat(times);
 }
 
-console.log(RepeatTextNTimes('Hola', 4));
+// console.log(RepeatTextNTimes('Hola', 4));
