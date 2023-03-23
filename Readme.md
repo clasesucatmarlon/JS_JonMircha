@@ -29,7 +29,6 @@ Programa una función que invierta las palabras de una cadena de texto.
 Por ejemplo: miFuncion("Hola Mundo") devolverá "odnuM aloH".
 
 
-
 ## [Ejercicio_006: Contar palabras dentro de una frase](https://github.com/clasesucatmarlon/JS_JonMircha/blob/main/programs/CountWordsRepeatIntoPhrase.js)
 ### [Test](https://github.com/clasesucatmarlon/JS_JonMircha/blob/main/tests/CountWordsRepeatIntoPhrase.test.js)
 Programa una función para contar el número de veces que se repite una palabra en un texto largo.  
@@ -42,4 +41,7 @@ Programa una función que valide si una palabra o frase dada, es un palíndromo 
 Por ejemplo: mifuncion("Salas") devolverá true.
 
 
-8) Programa una función que elimine cierto patrón de caracteres de un texto dado, pe. miFuncion("xyz1, xyz2, xyz3, xyz4 y xyz5", "xyz") devolverá  "1, 2, 3, 4 y 5.
+## [Ejercicio_008: eliminar determinado patron de un texto](https://github.com/clasesucatmarlon/JS_JonMircha/blob/main/programs/DeletePatternIntoPhrase.js)
+### [Test](https://github.com/clasesucatmarlon/JS_JonMircha/blob/main/tests/DeletePatternIntoPhrase.test.js)
+Programa una función que elimine cierto patrón de caracteres de un texto dado.  
+Por ejemplo: miFuncion("xyz1, xyz2, xyz3, xyz4 y xyz5", "xyz") devolverá  "1, 2, 3, 4 y 5.
