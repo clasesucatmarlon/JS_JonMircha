@@ -45,3 +45,12 @@ Por ejemplo: mifuncion("Salas") devolverá true.
 ### [Test](https://github.com/clasesucatmarlon/JS_JonMircha/blob/main/tests/DeletePatternIntoPhrase.test.js)
 Programa una función que elimine cierto patrón de caracteres de un texto dado.  
 Por ejemplo: miFuncion("xyz1, xyz2, xyz3, xyz4 y xyz5", "xyz") devolverá  "1, 2, 3, 4 y 5.
+
+
+## [Ejercicio_009: Generar número aleatorio entre 501 y 600](https://github.com/clasesucatmarlon/JS_JonMircha/blob/main/programs/DeletePatternIntoPhrase.js)
+### [Test](https://github.com/clasesucatmarlon/JS_JonMircha/blob/main/tests/DeletePatternIntoPhrase.test.js)
+Programa una función que obtenga un numero aleatorio entre 501 y 600.
+
+
+10) Programa una función que reciba un número y evalúe si es capicúa o no (que se lee igual en un sentido que en otro), pe. miFuncion(2002) devolverá true.
+11) Programa una función que calcule el factorial de un número (El factorial de un entero positivo n, se define como el producto de todos los números enteros positivos desde 1 hasta n), pe. miFuncion(5) devolverá 120.
