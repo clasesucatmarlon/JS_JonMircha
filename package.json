@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "jest --verbose"
+    "test": "jest --verbose",
+    "test2": "jest"
   },
   "keywords": [],
   "author": "Marlon GARCIA",
